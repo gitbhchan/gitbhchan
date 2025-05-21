@@ -24,6 +24,7 @@
       1. Item 2bb
 1. Item 3
 
+
 # Table
 
 Color | RGB | Comment
